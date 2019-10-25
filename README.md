@@ -9,10 +9,6 @@ This simple project was developed by me in order to polish React Hooks usage and
 And also this project covered partially with unit tests.
 I found a solution to test functional components with hooks using enzyme shallow mode and mocking hooks. 
 
-You could find my article about it here
-
-https://medium.com/@pylnata/testing-react-functional-component-using-hooks-useeffect-usedispatch-and-useselector-in-shallow-9cfbc74f62fb
-
 In this project I use only functional components and React Hooks (almost all existed). 
 
 Used: 
